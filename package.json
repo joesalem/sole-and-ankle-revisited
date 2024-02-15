@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@radix-ui/react-dialog": "^1.0.5",
     "@reach/dialog": "0.15.0",
     "date-fns": "2.16.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-feather": "2.0.9",
-    "react-scripts": "4.0.1",
+    "react-scripts": "^5.0.1",
     "styled-components": "5.2.1"
   },
   "scripts": {
